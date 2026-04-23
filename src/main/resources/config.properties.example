@@ -1,0 +1,14 @@
+# Copy this file to config.properties and fill in real values.
+# config.properties is gitignored — never commit real credentials.
+
+# Zara credentials (www.zara.com/tr)
+zara.email=validemail
+zara.password=validpassword
+
+# Browser settings
+browser.headless=false
+
+# Trello API credentials
+# Can be overridden by TRELLO_KEY / TRELLO_TOKEN environment variables.
+trello.key=validkey
+trello.token=validtoken
